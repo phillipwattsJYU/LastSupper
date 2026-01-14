@@ -1,0 +1,1 @@
+R code processes amplicon sequence data that are imported from QIIME2 (i.e. *qza forma). Fungal features need to have an associated descriptor (e.g. from FunGuild) that can be used to classify features  as either macrofunngi or microfungi.
